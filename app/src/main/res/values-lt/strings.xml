@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="info_no_sentence">Tekstas nebuvo pateiktas</string>
+    <string name="hint_activity_results">Veiklų rezultatai</string>
+    <string name="btn_enter_sentence">Įvesti norimą teksta</string>
+    <string name="btn_calc_words">Suskaičiuoti žodžius</string>
+    <string name="btn_send_text">Siūsti tekstą su rezultatais</string>
+</resources>

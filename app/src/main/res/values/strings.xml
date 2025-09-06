@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="info_no_sentence">No sentence provided</string>
+    <string name="hint_activity_results">Activity results</string>
+    <string name="btn_enter_sentence">Enter a sentence</string>
+    <string name="btn_calc_words">Count words</string>
+    <string name="btn_send_text">Send text</string>
+</resources>
